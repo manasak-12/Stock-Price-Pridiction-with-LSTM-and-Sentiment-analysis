@@ -15,7 +15,6 @@ This project predicts stock prices using **LSTM (Long Short-Term Memory) network
 ## ** Project Structure**
 ```
    stock-price-prediction-sentiment
- ┣ data                      # Stores raw data
  ┣ README.md                 # Project documentation
  ┣ requirements.txt          # Dependencies list
  ┗ main.py                   # Main script to run the project
