@@ -27,7 +27,7 @@ Follow these steps to set up the project on your local machine.
 
 ### **1️ Clone the Repository**
 ```sh
-git clone https://github.com/YOUR_USERNAME/stock-price-prediction-sentiment.git
+git clone https://github.com/manasak-12/stock-price-prediction-sentiment.git
 cd stock-price-prediction-sentiment
 ```
 
