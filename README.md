@@ -67,15 +67,6 @@ pip install -r requirements.txt
 
 ---
 
-## ** Example Output**
-```sh
-Data preprocessing complete!
-Model training complete!
-Predicted Stock Price: 152.75
-```
-
----
-
 ## ** Dependencies**
 ```txt
 numpy
