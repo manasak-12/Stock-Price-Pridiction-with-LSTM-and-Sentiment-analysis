@@ -6,15 +6,15 @@
 This project predicts stock prices using **LSTM (Long Short-Term Memory) networks** and incorporates **sentiment analysis** on financial news to improve accuracy.  
 
 **Key Features:**  
-✅ Fetches stock price data using Yahoo Finance 📈  
-✅ Performs sentiment analysis on financial news using NLP 📊  
-✅ Uses LSTM to predict future stock prices based on past trends 📉  
+ Fetches stock price data using Yahoo Finance 📈  
+ Performs sentiment analysis on financial news using NLP 📊  
+ Uses LSTM to predict future stock prices based on past trends 📉  
 
 ---
 
-## **📂 Project Structure**
+## ** Project Structure**
 ```
-📦 stock-price-prediction-sentiment
+   stock-price-prediction-sentiment
  ┣ data                      # Stores raw data
  ┣ README.md                 # Project documentation
  ┣ requirements.txt          # Dependencies list
@@ -37,8 +37,7 @@ cd stock-price-prediction-sentiment
 pip install -r requirements.txt
 ```
 
-### **3️ Run the Project**
-- **Preprocess the data**  
+### **3️ Run the Project** 
   ```
   python main.py
   ```
@@ -78,7 +77,7 @@ Predicted Stock Price: 152.75
 
 ---
 
-## **📋 Dependencies**
+## ** Dependencies**
 ```txt
 numpy
 pandas
@@ -101,7 +100,7 @@ yfinance
 **Anagha V**  
 **K Manasa**  
 **Prasad**  
-📧 Email: manasakumar1209@gmail.com 
-🔗 GitHub: [github.com/manasak-12](https://github.com/manasak-12)  
+ Email: manasakumar1209@gmail.com 
+ GitHub: [github.com/manasak-12](https://github.com/manasak-12)  
 
 ---
