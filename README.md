@@ -1,6 +1,6 @@
 ## **Stock Price Prediction with Sentiment Analysis**  
 
-![Stock Prediction](https://upload.wikimedia.org/wikipedia/commons/3/3a/Stock_Market_Investments.jpg)  
+![Stock Prediction](https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/21894download.jpg)  
 
 ### **Overview**  
 This project predicts stock prices using **LSTM (Long Short-Term Memory) networks** and incorporates **sentiment analysis** on financial news to improve accuracy.  
@@ -39,16 +39,8 @@ pip install -r requirements.txt
 
 ### **3️ Run the Project**
 - **Preprocess the data**  
-  ```sh
-  python src/preprocess.py
   ```
-- **Train the model**  
-  ```sh
-  python src/train_model.py
-  ```
-- **Make predictions**  
-  ```sh
-  python src/predict.py
+  python main.py
   ```
 
 ---
@@ -106,10 +98,10 @@ yfinance
 ---
 
 ## ** Author**
-**[Anagha V]**  
-**[K Manasa]**  
-**[Prasad]**  
-📧 Email: your.email@example.com  
+**Anagha V**  
+**K Manasa**  
+**Prasad**  
+📧 Email: manasakumar1209@gmail.com 
 🔗 GitHub: [github.com/manasak-12](https://github.com/manasak-12)  
 
 ---
