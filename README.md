@@ -90,8 +90,8 @@ yfinance
 **Anagha V**  
 **K Manasa**  
 **Prasad**  
- Email: anagha6393@gmail.com    GitHub: [github.com/anagha-2538](https://github.com/anagha-2538)
- Email: manasakumar1209@gmail.com    GitHub: [github.com/manasak-12](https://github.com/manasak-12)
+ Email: anagha6393@gmail.com    GitHub: [github.com/anagha-2538](https://github.com/anagha-2538)<br>
+ Email: manasakumar1209@gmail.com    GitHub: [github.com/manasak-12](https://github.com/manasak-12)<br>
  
 
 ---
