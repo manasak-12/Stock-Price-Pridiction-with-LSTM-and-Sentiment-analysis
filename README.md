@@ -2,7 +2,7 @@
 
 ![Stock Prediction](https://cdn.analyticsvidhya.com/wp-content/uploads/2021/07/21894download.jpg)  
 
-### **Overview**  
+### Overview  
 This project predicts stock prices using **LSTM (Long Short-Term Memory) networks** and incorporates **sentiment analysis** on financial news to improve accuracy.  
 
 **Key Features:**  
@@ -12,7 +12,7 @@ This project predicts stock prices using **LSTM (Long Short-Term Memory) network
 
 ---
 
-## ** Project Structure**
+## Project Structure
 ```
    stock-price-prediction-sentiment
  ┣ README.md                 # Project documentation
@@ -22,34 +22,34 @@ This project predicts stock prices using **LSTM (Long Short-Term Memory) network
 
 ---
 
-## ** Installation**
+## Installation
 Follow these steps to set up the project on your local machine.  
 
-### **1️ Clone the Repository**
+### 1️ Clone the Repository
 ```sh
 git clone https://github.com/manasak-12/Stock-Price-Pridiction-with-LSTM-and-Sentiment-analysis
 cd stock-price-prediction-sentiment
 ```
 
-### **2️ Install Dependencies**
+### 2️ Install Dependencies
 ```sh
 pip install -r requirements.txt
 ```
 
-### **3️ Run the Project** 
+### 3️ Run the Project 
   ```
   python main.py
   ```
 
 ---
 
-## ** Data Sources**
+##  Data Sources
 - **Stock Price Data**: Retrieved from [Yahoo Finance](https://finance.yahoo.com/) using the `yfinance` library.  
 - **Financial News Data**: Used for sentiment analysis, sourced from news APIs or manually inputted CSV files.
 
 ---
 
-## ** Methodology**
+##  Methodology
 1. **Data Collection**  
    - Fetch stock price data (Open, Close, High, Low, Volume).  
    - Collect financial news headlines for sentiment analysis.  
@@ -67,7 +67,7 @@ pip install -r requirements.txt
 
 ---
 
-## ** Dependencies**
+##  Dependencies
 ```txt
 numpy
 pandas
@@ -79,20 +79,20 @@ nltk
 yfinance
 ```
 
-## ** Future Improvements**
+##  Future Improvements
 -  Add more financial news sources for better sentiment accuracy.  
 -  Implement attention mechanisms in LSTM models.  
 -  Deploy the model as a web application using Flask or FastAPI.  
 
 ---
 
-## ** Author**
+##  Author
 **Anagha V**  
 **K Manasa**  
 **Prasad**  
  Email: manasakumar1209@gmail.com 
  GitHub: [github.com/manasak-12](https://github.com/manasak-12)
   Email: anagha6393@gmail.com 
- GitHub: [github.com/anagha-2586](https://github.com/anagha-2586)
+ GitHub: [github.com/anagha-2538](https://github.com/anagha-2538)
 
 ---
