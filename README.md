@@ -92,6 +92,6 @@ yfinance
 **Prasad**  
  Email: anagha6393@gmail.com    GitHub: [github.com/anagha-2538](https://github.com/anagha-2538)<br>
  Email: manasakumar1209@gmail.com    GitHub: [github.com/manasak-12](https://github.com/manasak-12)<br>
- 
+ Email: prasad.u.patil.2004@gmail.com   Github: [github.com/Prasad2004Patil](https://github.com/Prasad2004Patil)<br
 
 ---
